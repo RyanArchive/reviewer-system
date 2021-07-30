@@ -33,4 +33,4 @@ Numbers to be computed are set to maximum of 50
 
 #### Using Command Prompt (Alternative)
 
-- <a href="https://github.com/rynrsts/cups-and-balls/blob/main/command-prompt.md">Compiling and Executing using Command Prompt</a>
+- <a href="https://github.com/rynrsts/reviewer-system/blob/main/command-prompt.md">Compiling and Executing using Command Prompt</a>
